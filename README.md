@@ -2,7 +2,7 @@
 
 Web Development Student.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lohan%20Luiz-%237159c1)](https://www.linkedin.com/in/lohan-luiz-65a6451b5/)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Lohan%20Luiz-%237159c1)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-lohanluiz12%40gmail.com-%237159c1)
 
 I'm studying the 7th period of Information Systems at Faculdade SAPIENS, but after all this time studying various things, I finally found something that I want to follow with everything, and it's, to become a web developer.
