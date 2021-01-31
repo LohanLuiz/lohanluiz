@@ -12,9 +12,3 @@ Also training my English to become as fluent as possible.
 
 
 Gradually I get there! 🚀
-
-
-<!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/Lohanluiz/lohanluiz/blob/master/github-metrics.svg)
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/Lohanluiz/lohanluiz/blob/main/github-metrics.svg)
