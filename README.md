@@ -2,7 +2,7 @@
 
 Web Development Student.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Lohan%20Luiz-%237159c1)](https://www.linkedin.com/in/lohan-luiz-65a6451b5/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Lohan%20Luiz-%237159c1)](https://www.linkedin.com/in/lohanluiz/)
 
 I am currently dedicating myself to learn the basic and advanced concepts about web development. 
 
