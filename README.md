@@ -1,3 +1,5 @@
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">😃 Hello there!
+
 ### <p align="center">I'm Lohan Luiz <img alt="GoStack Certificated" title="GoStack Certificated" height="50" src="gostack-badge.png" /></p>
 
 ---
