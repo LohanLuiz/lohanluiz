@@ -5,7 +5,6 @@
 I'm a junior web developer student, focusing on technologies that's envolve **JavaScript**. Being more specific, I work with **ReactJS**, **NextJS** and **TypeScript**. Also I have a little knowledge about Backend, using **Node.js** and as a **MySQL** database.
 
 <br />
-<br />
 
 **Languages and Tools 🚀**
 
