@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lohanluiz/)](https://www.linkedin.com/in/lohanluiz/) 
 
-I'm a junior web developer student, focusing on technologies that's envolve **JavaScript**. Being more specific, I work with **ReactJS**, **NextJS** and **TypeScript**. Also I have a little knowledge about Backend, using **Node.js** and as a **MySQL** database.
+I'm a Junior web developer student, focusing on technologies that's envolve **JavaScript**. Being more specific, I work with **ReactJS**, **NextJS** and **TypeScript**. Also I have a little knowledge about Backend, using **Node.js** and as a **MySQL** database.
 
 <br />
 
